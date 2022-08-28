@@ -1,1 +1,135 @@
+## SCL Builder Setup File: Do not edit!!
 
+## VERSION: 3.60.00.00
+## FORMAT:  v2.00.01
+## DEVICE:  PIC18F4550
+
+## PINREGACTIONS
+cyc
+No Repeat
+--
+&
+## ADVPINREGACTIONS
+--
+&
+--
+COND1
+Any
+
+
+
+
+
+
+--
+&
+## CLOCK
+&
+## STIMULUSFILE
+&
+## RESPONSEFILE
+&
+## ASYNCH
+Pin
+RA0
+Toggle
+
+
+-1
+--
+Pin
+RA1
+Toggle
+
+
+-1
+--
+Pin
+RA2
+Toggle
+
+
+-1
+--
+Pin
+RC0
+Toggle
+
+
+-1
+--
+Pin
+RC1
+Toggle
+
+
+-1
+--
+Pin
+RC2
+Toggle
+
+
+-1
+--
+Pin
+RC4
+Toggle
+
+
+-1
+--
+Pin
+RC5
+Toggle
+
+
+-1
+--
+Pin
+RC6
+Toggle
+
+
+-1
+--
+Pin
+RC7
+Toggle
+
+
+-1
+--
+Pin
+RD0
+Toggle
+
+
+-1
+--
+Pin
+RD2
+Toggle
+
+
+-1
+--
+Pin
+RD4
+Toggle
+
+
+-1
+--
+Pin
+RD6
+Toggle
+
+
+-1
+--
+&
+## ADVANCEDSCL
+
+0
+&
